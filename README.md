@@ -19,6 +19,12 @@ This is a basic Data Analyst project where resumes are analyzed and matched with
 
 ---
 
+## 📸 Dashboard Preview
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
 ## 📊 Dashboard Insights
 - Identified top candidate based on highest score
 - Compared candidate performance
@@ -30,12 +36,3 @@ This is a basic Data Analyst project where resumes are analyzed and matched with
 - app.py → main code
 - job_description.txt → job requirements
 - output.csv → generated data
-
----
-
-## 💡 Learning Outcome
-- Learned real-world data analysis workflow
-- Built first dashboard project
-- Understood how data helps in decision-making
-
----
