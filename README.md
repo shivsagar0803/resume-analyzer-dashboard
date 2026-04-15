@@ -21,7 +21,14 @@ This is a basic Data Analyst project where resumes are analyzed and matched with
 
 ## 📸 Dashboard Preview
 
-<img src="https://raw.githubusercontent.com/shivsagar0803/resume-analyzer-dashboard/main/screenshots/dashboard.png" width="800"/>
+### 🔹 Main Dashboard
+![Dashboard](screenshots/dashboard%201.png)
+
+### 🔹 Dashboard 2
+![Dashboard](screenshots/dashboard%202.png)
+
+### 🔹 Dashboard 3
+![Dashboard](screenshots/dashboard%203.png)
 
 ---
 
