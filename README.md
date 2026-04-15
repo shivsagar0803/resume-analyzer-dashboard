@@ -1,4 +1,4 @@
-# 📊 Resume Analyzer Dashboard
+# 📊 Resume Analyzer Dashboard (Python + Power BI)
 
 This is a basic Data Analyst project where resumes are analyzed and matched with job descriptions using Python.
 
@@ -9,7 +9,7 @@ This is a basic Data Analyst project where resumes are analyzed and matched with
 - Compared resumes with job description
 - Generated match score using similarity
 - Visualized results using Power BI dashboard
-
+- Helped identify best candidate based on skill matching and scoring
 ---
 
 ## 🛠️ Tools Used
