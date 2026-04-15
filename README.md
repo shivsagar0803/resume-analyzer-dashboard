@@ -22,7 +22,7 @@ This is a basic Data Analyst project where resumes are analyzed and matched with
 ## 📸 Dashboard Preview
 
 ### 🔹 Main Dashboard
-![Dashboard](dashboard%201.png)
+![Dashboard](dashboard%201%20.png)
 
 ### 🔹 Dashboard 2
 ![Dashboard](dashboard%202.png)
