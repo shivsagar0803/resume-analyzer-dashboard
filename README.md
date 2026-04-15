@@ -22,13 +22,13 @@ This is a basic Data Analyst project where resumes are analyzed and matched with
 ## 📸 Dashboard Preview
 
 ### 🔹 Main Dashboard
-![Dashboard](dashboard1.png)
+![Dashboard](dashboard%201.png)
 
 ### 🔹 Dashboard 2
-![Dashboard](dashboard2.png)
+![Dashboard](dashboard%202.png)
 
 ### 🔹 Dashboard 3
-![Dashboard](dashboard3.png)
+![Dashboard](dashboard%203.png)
 ---
 
 ## 📊 Dashboard Insights
