@@ -1,0 +1,4 @@
+Looking for a candidate with skills in Python, SQL, Power BI, Pandas, NumPy,
+networking fundamentals (routing, subnetting, TCP/IP),
+firewall knowledge (Cisco ASA, Palo Alto, NAT, VPN),
+and strong analytical and communication skills.
